@@ -1,5 +1,6 @@
 # WAB_IdentifyMany-Tideflats_SP-Widget
 IdentifyMany widget for Tideflats Subarea Plan: https://wspdsmap.cityoftacoma.org/website/PDS/Tideflats/
+
 NOTE: No unminified version of Widget.js available yet.
 
 Version 2.13
